@@ -5,11 +5,13 @@
 No, i dati restano confinati nella rete tua rete privata.
 
 
+
 **Posso usarlo dal telefono?**
 
 Sì, dal browser del telefono (come pagina web), collegandoti allo stesso
 indirizzo usato sul PC, sulla stessa rete locale. Non serve installare
 un'app.
+
 
 
 **Perché alcune funzioni della versione di sviluppo non sono presenti qui?**
