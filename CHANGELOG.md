@@ -1,9 +1,6 @@
 # Changelog
 
-Formato pensato per l'utente finale: cosa cambia per te, non le decisioni
-tecniche interne (quelle restano nel repository di sviluppo).
-
-## [Non ancora rilasciato]
+## v1.0.0
 
 ### Aggiunto
 - Prima build pubblica della Community Edition: server locale + interfaccia
