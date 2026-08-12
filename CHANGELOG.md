@@ -2,7 +2,7 @@
 
 ## v1.0.0
 
-### Aggiunto
+### Incluso
 - Prima build pubblica della Community Edition: server locale + interfaccia
   web (Progressive Web App), installabile da browser
 - Assistente vocale e testuale con memoria a lungo termine cifrata
