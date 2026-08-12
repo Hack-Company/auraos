@@ -62,13 +62,4 @@ l'obbligo di disinstallare il Software.
 
 ## 8. Legge applicabile
 
-*[Da definire: foro competente e legge applicabile — tipicamente quella del
-paese di residenza del titolare del progetto.]*
-
----
-
-*Nota: questo è un modello di base, pensato per un rilascio in forma di
-binario compilato senza sorgente pubblico. Non costituisce consulenza
-legale — prima della pubblicazione è consigliabile una revisione da parte
-di un legale, in particolare per i punti 4 (trattamento dati, se rilevante
-ai fini GDPR) e 8 (foro/legge applicabile).*
+Il Foro competente è quello di Rimini
