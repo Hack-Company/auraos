@@ -1,18 +1,7 @@
-# Guida utente — AuraOS Community Edition
-
-*(scheletro — da completare prima della pubblicazione)*
-
-## Primo avvio
-1. ...
-2. ...
-
-## Accedere dall'interfaccia web (PWA)
-...
-
-## Domande frequenti
+# Domande frequenti
 
 **I miei dati escono mai dal mio dispositivo?**
-...
+No, i dati restano confinati nella rete tua rete privata.
 
 **Posso usarlo dal telefono?**
 Sì, dal browser del telefono (come pagina web), collegandoti allo stesso
@@ -25,6 +14,3 @@ sincronizzazione biometrica da telefono/watch), il calcolo distribuito su
 più dispositivi (ancora in fase di test interno) né gli strumenti di
 sviluppo/training del modello, che non servono all'uso quotidiano
 dall'interfaccia web.
-
-## Risoluzione problemi
-...
